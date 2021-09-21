@@ -1,0 +1,13 @@
+.user-details-container {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 0;
+}
+
+.user-name {
+  color: #fff;
+  font-size: 14px;
+  position: relative;
+  top: 5px;
+  margin-left: 10px;
+}

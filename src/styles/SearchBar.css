@@ -1,0 +1,26 @@
+.track-search-container {
+	position: relative;
+	top: 20px;
+	z-index: .9;
+}
+
+.track-search-container input {
+	background: hsl(0, 0%, 100%);
+	width: 180px;
+	height: 30px;
+	border-radius: 50px;
+	font-size:15px;
+	border: none;
+	padding: 5px 10px;
+	outline: none;
+	z-index: .9;
+}
+
+button {
+	background: none;
+	border: none;
+	outline: none;
+	color:white;
+	margin-left: 10px;
+	cursor:pointer;
+}

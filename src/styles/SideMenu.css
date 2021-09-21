@@ -1,0 +1,7 @@
+.sidebar > img{
+  height: 40px;
+  padding:10px;
+  object-fit:contain;
+}
+
+
